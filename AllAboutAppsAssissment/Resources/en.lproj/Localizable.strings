@@ -1,0 +1,14 @@
+/* 
+  Localiazable.strings
+  AllAboutAppsAssissment
+
+  Created by Moaaz Ahmed Fawzy Taha on 24/01/2022.
+  
+*/
+"Default" = "Default";
+"Name Ascendingly" = "Name Ascendingly";
+"Value Descendingly" = "Value Descendingly";
+"Million" = "  Million";
+"The club" = "The club ";
+"ClubDetails.description" = " from [country] is worth [value] million euros.";
+

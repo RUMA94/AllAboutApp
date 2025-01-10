@@ -1,0 +1,15 @@
+
+/* Class = "UINavigationItem"; title = "All About Clubs"; ObjectID = "O6q-5b-3y6"; */
+"O6q-5b-3y6.title" = "All About Clubs";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PYd-W4-Xao"; */
+"PYd-W4-Xao.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "dsr-py-LPh"; */
+"dsr-py-LPh.title" = "Sortieren";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gWG-jD-6Hb"; */
+"gWG-jD-6Hb.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "ClubName"; ObjectID = "r7e-iM-2SY"; */
+"r7e-iM-2SY.title" = "ClubName";
