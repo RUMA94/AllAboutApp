@@ -1,0 +1,26 @@
+PODS:
+  - ReachabilitySwift (5.0.0)
+  - SDWebImage (5.12.1):
+    - SDWebImage/Core (= 5.12.1)
+  - SDWebImage/Core (5.12.1)
+  - TBDropdownMenu (4.1.0)
+
+DEPENDENCIES:
+  - ReachabilitySwift
+  - SDWebImage (~> 5.0)
+  - TBDropdownMenu
+
+SPEC REPOS:
+  trunk:
+    - ReachabilitySwift
+    - SDWebImage
+    - TBDropdownMenu
+
+SPEC CHECKSUMS:
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SDWebImage: 4dc3e42d9ec0c1028b960a33ac6b637bb432207b
+  TBDropdownMenu: 9201924bf459a3ae426b992f3db032d377020636
+
+PODFILE CHECKSUM: 807d9bd184b4a0f9448bc24ffbf582bfaa1e1ca0
+
+COCOAPODS: 1.10.1
